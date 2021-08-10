@@ -11,7 +11,7 @@ navn = input('Hva heter du?')
 # Printer: 'Hei', samt variabelen 'navn'.
 print( 'Hei', navn)
 
-
+ 
 #4
 # Variabler som inneholder to forskjellige tall.
 tall1 = 3

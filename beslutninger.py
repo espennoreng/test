@@ -4,7 +4,7 @@ brus = input('Vil du ha brus? ')
 #Sjekker om personen svarte Ja/ja. I så fall printes:'Her har du en brus'.
 if brus == 'Ja' or brus == 'ja':
     print('Her har du en brus!')
-
+ 
 #Sjekker om personen svarte Nei/nei. I så fall, printes: 'Den er grei'.
 elif brus == 'Nei' or brus == 'nei':
     print('Den er grei!')
